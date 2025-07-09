@@ -2,8 +2,6 @@
 
 A beautiful, modern, and responsive weather application built with React.js. Instantly check the current weather conditions for any city in the world, with a clean UI, weather icons, and a feedback form that sends messages directly to your email.
 
-![Deploy to Vercel](https://vercel.com/button)
-
 ## 🌟 Features
 - **Live Weather Search:** Get real-time weather for any city worldwide
 - **Modern UI:** Blue gradient theme, weather icons, and responsive design
@@ -13,12 +11,10 @@ A beautiful, modern, and responsive weather application built with React.js. Ins
 - **Accessible & Mobile Friendly**
 
 ## 🚀 Live Demo
-[Live Demo on Vercel](https://your-vercel-demo-url.vercel.app) <!-- Replace with your actual deployed URL -->
+[Live Demo on Vercel](https://your-vercel-demo-url.vercel.app) 
 
 ## 🖥️ Screenshots
-| Home Page | Weather Details | Feedback Form |
-|---|---|---|
-| ![Home](screenshots/home.png) | ![Weather](screenshots/weather.png) | ![Feedback](screenshots/feedback.png) |
+
 
 ## 🛠️ Technologies Used
 - React.js
