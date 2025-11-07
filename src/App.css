@@ -156,6 +156,10 @@ body, html, #root, .app-container {
   background: rgba(255, 255, 255, 0.1);
   border-radius: 20px;
   box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+  min-height: 260px; /* increased height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* center content vertically */
 }
 
 .welcome-container h2 {
@@ -228,7 +232,7 @@ body, html, #root, .app-container {
   }
   .weather-section, .history-section {
     min-width: unset;
-    width: 100%;
+    width: 80%;
     max-width: 100%;
   }
   .search-input-container {
